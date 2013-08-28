@@ -1,0 +1,9 @@
+c:\users\matthew\documents\visual studio 2012\Projects\BinaryTreeMattPhillips\BinaryTreeMattPhillips\bin\Debug\BinaryTreeMattPhillips.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\BinaryTreeMattPhillips\BinaryTreeMattPhillips\bin\Debug\BinaryTreeMattPhillips.exe
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\BinaryTreeMattPhillips\BinaryTreeMattPhillips\bin\Debug\BinaryTreeMattPhillips.pdb
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\BinaryTreeMattPhillips\BinaryTreeMattPhillips\obj\Debug\BinaryTreeMattPhillips.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\BinaryTreeMattPhillips\BinaryTreeMattPhillips\obj\Debug\BinaryTreeMattPhillips.Form1.resources
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\BinaryTreeMattPhillips\BinaryTreeMattPhillips\obj\Debug\BinaryTreeMattPhillips.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\BinaryTreeMattPhillips\BinaryTreeMattPhillips\obj\Debug\BinaryTreeMattPhillips.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\BinaryTreeMattPhillips\BinaryTreeMattPhillips\obj\Debug\BinaryTreeMattPhillips.exe
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\BinaryTreeMattPhillips\BinaryTreeMattPhillips\obj\Debug\BinaryTreeMattPhillips.pdb
