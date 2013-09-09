@@ -34,6 +34,12 @@ namespace BinaryTreeMattPhillips
 
             tree.PrintBinaryTree(null, ref treeString);
             Console.WriteLine(treeString);
+
+            tree.Delete(64);
+            
+            treeString = "";
+            tree.PrintBinaryTree(null, ref treeString);
+            Console.WriteLine(treeString);
         }
     }
 }
